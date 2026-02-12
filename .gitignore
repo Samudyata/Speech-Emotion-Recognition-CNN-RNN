@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.h5
+*.keras
+*.wav
+*.npy
+.DS_Store
+Thumbs.db
+plots/
+plots_final/
+best_model_*.keras
+final_model_*.keras
+*.log
